@@ -1,0 +1,2 @@
+1) Git y Github
+   - Crear repo de github y subir un archivo en la carpeta practica1
